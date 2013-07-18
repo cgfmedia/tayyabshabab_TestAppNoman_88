@@ -94,7 +94,7 @@
 
     
 
-    <gap:plugin name="com.phonegap.plugins.PushPlugin"/>
+    <gap:plugin name="com.adobe.plugins.pushplugin" />
 
         
 
